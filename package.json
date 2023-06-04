@@ -1,6 +1,6 @@
 {
   "name": "@lynniemagoo/adafruit-sh1106-library",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "NodeJS Promise-based port adaptation of C/C++ Adafruit_SSD1306 from Github for SH1106",
   "main": "index.js",
   "dependencies": {
